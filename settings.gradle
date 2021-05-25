@@ -1,0 +1,4 @@
+include ':PlugIn'
+include ':appbranch'
+include ':appMain'
+rootProject.name = "PlugInApp"
